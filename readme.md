@@ -85,6 +85,6 @@ Meta | ASCII |Função
 
 ## Links
 
-[Os Metacaracteres](https://aurelio.net/regex/guia/metacaracteres.html)  
-[Cheat sheet - Metacaracteres](http://www.devfuria.com.br/regex/cheat-sheet-matacaracteres/)
+[Os Metacaracteres](https://aurelio.net/regex/guia/metacaracteres.html) <br>
+[Cheat sheet - Metacaracteres](http://www.devfuria.com.br/regex/cheat-sheet-matacaracteres/)<br>
 [Tabela dos metacaracteres](https://gist.github.com/alexandreservian/124db2fab8a75474dd6fdc4f17f93a5d)
